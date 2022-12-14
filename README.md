@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lars, Team Leader in Elsevier Academic Information Systems.
+- 👀 I’m interested in Python, Machine learning, C#/.NET and AWS.
+- 📫 How to reach me l.ostergaard@elsevier.com
